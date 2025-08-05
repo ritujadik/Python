@@ -1,0 +1,67 @@
+Basic Topics
+1.Introduction to Python
+a)what is python
+b)Installing python
+c)Python shell vs Scripting
+d)Python IDE's
+
+2.Data types and variables
+a)Integers,Float,Strings,Booleans
+b)Type Conversion
+c)Variables and Assignment
+
+3.Basic Operators
+a)Airthmetic Operators
+b)Comparison Operators
+c)Logical Operators
+
+4.Control Structures
+a)Condition Statement(if,elif,else)
+b)Loop(for,while)
+c)break,continue and pass
+
+5.Basic Data structures
+a)List
+b)Tuplese
+c)Sets
+d)Dictionaries
+
+6.Functions
+a)defining and calling function
+b)Arguments and return values
+c)local and global variables
+
+7.Modules and Packages
+a)Importing modules
+b)Exploring the Standard Library
+
+Intermediate topics
+1)List Comprehnsion
+2)dict comprehnsion
+3)lambda function
+4)*args and **kwargs
+5)Decorators
+6)Generators
+7)File handling
+  a)Reading and Writing files
+  b)Working with Directories
+  c)Exception handling during I/O
+
+8)Error and Exception Handling
+a)try,except,finally
+b)Custom exceptions
+
+9)OOPS concept
+a)Classes and objects
+b)Inheritance
+c)Polymorphism
+d)Encapsulation
+
+10)Memory management and optimization
+11)Asynchronous Programming
+a)Async/Await
+b)Asynchronous Framework(fastapi)
+
+
+
+
